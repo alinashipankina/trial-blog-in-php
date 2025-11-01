@@ -1,0 +1,1 @@
+# trial-blog-in-php
